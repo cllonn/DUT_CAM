@@ -7751,7 +7751,7 @@
 			)
 		)
 	)
-	(global_label "1V8_LDO"
+	(global_label "1V2_LDO"
 		(shape passive)
 		(at 211.328 24.638 180)
 		(fields_autoplaced yes)
@@ -7883,7 +7883,7 @@
 			)
 		)
 	)
-	(global_label "1V8_LDO"
+	(global_label "1V2_LDO"
 		(shape passive)
 		(at 152.146 118.618 180)
 		(fields_autoplaced yes)
