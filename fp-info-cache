@@ -1,4 +1,4 @@
-25019027710999175
+25017332984119476
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89719,13 +89719,6 @@ SPST SPDT DC TE0598-P2
 7
 7
 Remal_KiCadLib
-BatteryHolder_CR2032_3V_BS-03-A1AJ001
-
-battery holder
-0
-2
-2
-Remal_KiCadLib
 C_0402_1005m
 Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering
 capacitor handsolder
@@ -89754,23 +89747,23 @@ capacitor handsolder
 2
 2
 Remal_KiCadLib
-C_Elec_8x6.7mm
-SMD capacitor, aluminum electrolytic, 8.0x6.7mm
+C_Polarized_8x6.7mm_SMD
+SMD capacitor, Polarized, aluminum electrolytic, 8.0x6.7mm
 capacitor electrolytic
 0
 2
 2
 Remal_KiCadLib
-C_Elec_8x11.9mm
-SMD capacitor, aluminum electrolytic, 8.0x11.9mm
+C_Polarized_8x11.9mm_SMD
+SMD capacitor, Polarized, aluminum electrolytic, 8.0x11.9mm
 capacitor electrolytic
 0
 2
 2
 Remal_KiCadLib
-C_Tantalum_1206_3216
-Capacitor Tantalum Polarized SMD 1206 (3216m)
-Capacitor Tantalum Polarized SMD 1206 (3216m)
+C_Polarized_1206_3216
+Capacitor Polarized SMD 1206 (3216m)
+Capacitor Polarized SMD 1206 (3216m)
 0
 2
 2
@@ -90328,13 +90321,6 @@ Si7021-A20-GM1R
 7
 7
 Remal_KiCadLib
-LED_7Seg_SM420561N
-7-Segment Display SM420561N
-7Segment LED SM420561N
-0
-10
-10
-Remal_KiCadLib
 LED_0805_2012m_Green
 Green LED SMD 0805 (2012 Metric)
 Green LED handsolder
@@ -90467,13 +90453,6 @@ Silicon Labs IC
 0
 31
 31
-Remal_KiCadLib
-MCU_SiLabs_QFN32_32Pin_SoC
-
-Integrated Circuit
-0
-33
-33
 Remal_KiCadLib
 MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
 MSOP, 8 Pin, generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -90832,7 +90811,7 @@ SOT-886
 6
 6
 Remal_KiCadLib
-SW_DPDT_MST22D18G2 125
+SW_DPDT_MST22D18G2-125
 switch DPDT SMT
 switch DPDT SMT
 0
@@ -90902,9 +90881,9 @@ TYPE-C-31-M-17 USB Type C 6 Pin Connector (Power Only)
 10
 10
 Remal_KiCadLib
-USB_C_16Pin_C167321
+USB_C_16Pin_918-418K2023S40001
 Extended pad length / USB C Type-C Receptacle right-angle SMD C167321
-USB C Type-C Receptacle right-angle SMD C167321
+USB C Type-C Receptacle right-angle SMD 
 0
 20
 17
@@ -100562,6 +100541,13 @@ BUZ-TH_BD40.0-P18.00-D1.0-FD
 2
 2
 easyeda2kicad
+FPC-SMD_24P-P0.50_05A20L24P
+
+
+0
+26
+26
+easyeda2kicad
 FPC-SMD_24P-P0.50_FPC-05F-24PH20
 
 
@@ -100596,6 +100582,13 @@ SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
 0
 8
 8
+easyeda2kicad
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
 easyeda2kicad
 SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
 
